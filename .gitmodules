@@ -1,6 +1,0 @@
-[submodule "tellefy-frontend-angular"]
-	path = tellefy-frontend-angular
-	url = ./tellefy-frontend-angular/
-[submodule "tellefy-backend-nodejs"]
-	path = tellefy-backend-nodejs
-	url = ./tellefy-backend-nodejs/
