@@ -1,2 +1,2 @@
-# tellefy
+# Tellefy
 A common repo to hold frontends and backends for tellefy.
