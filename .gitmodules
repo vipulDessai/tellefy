@@ -4,3 +4,6 @@
 [submodule "tellefy-frontend-angular"]
 	path = tellefy-frontend-angular
 	url = ./tellefy-frontend-angular/
+[submodule "tellefy-frontend-reactjs"]
+	path = tellefy-frontend-reactjs
+	url = https://github.com/vipulDessai/tellefy-frontend-reactjs.git
