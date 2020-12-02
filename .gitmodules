@@ -1,9 +1,9 @@
 [submodule "tellefy-backend-nodejs"]
 	path = tellefy-backend-nodejs
-	url = ./tellefy-backend-nodejs/
+	url = https://github.com/vipulDessai/tellefy-backend-nodejs.git
 [submodule "tellefy-frontend-angular"]
 	path = tellefy-frontend-angular
-	url = ./tellefy-frontend-angular/
+	url = https://github.com/vipulDessai/tellefy-frontend-angular.git
 [submodule "tellefy-frontend-reactjs"]
 	path = tellefy-frontend-reactjs
 	url = https://github.com/vipulDessai/tellefy-frontend-reactjs.git
